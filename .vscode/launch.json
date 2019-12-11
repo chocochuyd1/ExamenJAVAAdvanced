@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EighthQuestion",
+            "request": "launch",
+            "mainClass": "eighthQuestion.EighthQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThirdQuestion",
+            "request": "launch",
+            "mainClass": "thirdQuestion.ThirdQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SeventhQuestion",
+            "request": "launch",
+            "mainClass": "seventhQuestion.SeventhQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FourthQuestion",
+            "request": "launch",
+            "mainClass": "fouthQuestion.FourthQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FifthQuestion",
+            "request": "launch",
+            "mainClass": "fifthQuestion.FifthQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SecondQuestion",
+            "request": "launch",
+            "mainClass": "secondQuestion.SecondQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FirstQuestion",
+            "request": "launch",
+            "mainClass": "firstQuestion.FirstQuestion",
+            "projectName": "ExamenJAVAAdvanced_7b9c3552"
+        }
+    ]
+}

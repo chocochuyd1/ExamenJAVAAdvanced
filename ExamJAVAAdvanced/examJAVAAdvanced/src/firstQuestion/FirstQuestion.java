@@ -5,12 +5,19 @@ import java.util.Scanner;
 public class FirstQuestion {
 
     public static void main(String[] args) {
-        System.out.println("Ingresa un numero para ver sus multiplos del 1 - 10 :  ");
+        System.out.println("Ingresa un numero del \"2 - 20\" para ver sus multiplos del 1 - 10 :  ");
         Scanner scan = new Scanner(System.in);
         int N = scan.nextInt();
-        for (int i = 1; i <= 10; i++) {
-            System.out.println(N + " x " + i + " = " + (N * i));
+        scan.close();
+        System.out.println("-----------------------------------------------------");
+        if (N > 20 || N < 2) {
+            System.out.println("Numero no valido");
+        } else {
+            for (int i = 1; i <= 10; i++) {
+                System.out.println(N + " x " + i + " = " + (N * i));
+            }
         }
+
     }
 }
 /*
